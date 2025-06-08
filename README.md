@@ -1,4 +1,4 @@
 # myfirstproject
 This is my first Git Repository.
 <br>
-Author- Sornali Sen
+Author- Sornali Sen(myself)
