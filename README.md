@@ -1,2 +1,3 @@
 # myfirstproject
-This is my first project creation.
+This is my first Git Repository.
+Author- Sornali Sen
